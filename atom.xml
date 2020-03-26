@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hedada.github.io</id>
-    <title>heda</title>
-    <updated>2020-03-26T02:28:22.956Z</updated>
+    <id>https://DamHe.GitHub.io</id>
+    <title>DamHe</title>
+    <updated>2020-03-26T02:46:29.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hedada.github.io"/>
-    <link rel="self" href="https://hedada.github.io/atom.xml"/>
+    <link rel="alternate" href="https://DamHe.GitHub.io"/>
+    <link rel="self" href="https://DamHe.GitHub.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://hedada.github.io/images/avatar.png</logo>
-    <icon>https://hedada.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, heda</rights>
+    <logo>https://DamHe.GitHub.io/images/avatar.png</logo>
+    <icon>https://DamHe.GitHub.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, DamHe</rights>
     <entry>
         <title type="html"><![CDATA[cos ]]></title>
-        <id>https://hedada.github.io/post/cos/</id>
-        <link href="https://hedada.github.io/post/cos/">
+        <id>https://DamHe.GitHub.io/post/cos/</id>
+        <link href="https://DamHe.GitHub.io/post/cos/">
         </link>
         <updated>2020-03-26T01:07:49.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://hedada.github.io/post-images/1585184894900.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="2"><img src="https://hedada.github.io/post-images/1585184940131.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="https://DamHe.GitHub.io/post-images/1585184894900.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://DamHe.GitHub.io/post-images/1585184940131.jpg" alt="" loading="lazy"></figure>
 <!-- more -->
-<figure data-type="image" tabindex="3"><img src="https://hedada.github.io/post-images/1585185035446.jpg" alt="" loading="lazy"></figure>
-<figure data-type="image" tabindex="4"><img src="https://hedada.github.io/post-images/1585186060468.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://DamHe.GitHub.io/post-images/1585185035446.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://DamHe.GitHub.io/post-images/1585186060468.jpg" alt="" loading="lazy"></figure>
 <p>😜</p>
 <!-- more -->
 <p>I don't know write nothing</p>
@@ -29,8 +29,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://hedada.github.io/post/hello-gridea/</id>
-        <link href="https://hedada.github.io/post/hello-gridea/">
+        <id>https://DamHe.GitHub.io/post/hello-gridea/</id>
+        <link href="https://DamHe.GitHub.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
